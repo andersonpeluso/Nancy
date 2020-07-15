@@ -24,3 +24,5 @@ A Negociação de Conteúdo é incorporada ao Nancy e é executada imediatamente
 
 **Resumo**
 Uma abordagem diferente para definir "rotas" usando lambdas para identificar caminhos relativos, argumentos e a implementação da resposta.
+
+https://www.infoq.com/br/presentations/conheca-o-nancyfx/
